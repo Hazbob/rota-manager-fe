@@ -1,0 +1,4 @@
+name: Deploy Vue to azure
+  on: push
+    branches:
+      - master
